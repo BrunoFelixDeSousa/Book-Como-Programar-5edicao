@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620853981 source:c:\estudosprogramacao\cpp\bookcomoprogrmar5edicao\cap04\fig04_14\main.cpp
+	"GradeBook.h"
+
+1620852982 c:\estudosprogramacao\cpp\bookcomoprogrmar5edicao\cap04\fig04_14\gradebook.h
+	<string>
+
+1620854368 source:c:\estudosprogramacao\cpp\bookcomoprogrmar5edicao\cap04\fig04_14\gradebook.cpp
+	<iostream>
+	<iomanip>
+	"GradeBook.h"
+
