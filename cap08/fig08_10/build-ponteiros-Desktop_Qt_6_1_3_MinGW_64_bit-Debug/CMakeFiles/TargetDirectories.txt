@@ -1,0 +1,3 @@
+C:/EstudosProgramacao/Cpp/Codigo-de-livros/Book-Como-Programar-5edicao/cap08/fig08_10/build-ponteiros-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/ponteiros.dir
+C:/EstudosProgramacao/Cpp/Codigo-de-livros/Book-Como-Programar-5edicao/cap08/fig08_10/build-ponteiros-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/EstudosProgramacao/Cpp/Codigo-de-livros/Book-Como-Programar-5edicao/cap08/fig08_10/build-ponteiros-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+# ninja log v5
+3	537	6657879340754029	CMakeFiles/ponteiros.dir/main.cpp.obj	890ea5041fc84d18
+538	1184	6657879345164132	ponteiros.exe	f7d68c115f5e99a7
+68	451	6657883850643476	CMakeFiles/ponteiros.dir/Utils.cpp.obj	b47dda1e3e88ee05
+3	567	6657883851733757	CMakeFiles/ponteiros.dir/main.cpp.obj	890ea5041fc84d18
+568	896	6657883854953484	ponteiros.exe	829736725eb51460
+3	420	6657886943753662	CMakeFiles/ponteiros.dir/Utils.cpp.obj	b47dda1e3e88ee05
+420	918	6657886948474021	ponteiros.exe	829736725eb51460
+2	431	6657887298330349	CMakeFiles/ponteiros.dir/Utils.cpp.obj	b47dda1e3e88ee05
+432	848	6657887302189903	ponteiros.exe	829736725eb51460
+2	432	6657887424356473	CMakeFiles/ponteiros.dir/Utils.cpp.obj	b47dda1e3e88ee05
+433	842	6657887428116496	ponteiros.exe	829736725eb51460
+3	431	6657887599197917	CMakeFiles/ponteiros.dir/Utils.cpp.obj	b47dda1e3e88ee05
+432	851	6657887603037906	ponteiros.exe	829736725eb51460
+2	556	6657889956740512	CMakeFiles/ponteiros.dir/main.cpp.obj	890ea5041fc84d18
+2	547	6657890266562717	CMakeFiles/ponteiros.dir/main.cpp.obj	890ea5041fc84d18
+68	601	6657890788015331	CMakeFiles/ponteiros.dir/Utils.cpp.obj	b47dda1e3e88ee05
+3	602	6657890787934916	CMakeFiles/ponteiros.dir/main.cpp.obj	890ea5041fc84d18
+602	824	6657890791295208	ponteiros.exe	829736725eb51460

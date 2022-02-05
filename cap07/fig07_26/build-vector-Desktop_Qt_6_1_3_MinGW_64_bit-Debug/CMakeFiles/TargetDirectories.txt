@@ -1,0 +1,3 @@
+C:/EstudosProgramacao/Cpp/Codigo-de-livros/Book-Como-Programar-5edicao/cap07/fig07_26/build-vector-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/vector.dir
+C:/EstudosProgramacao/Cpp/Codigo-de-livros/Book-Como-Programar-5edicao/cap07/fig07_26/build-vector-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/EstudosProgramacao/Cpp/Codigo-de-livros/Book-Como-Programar-5edicao/cap07/fig07_26/build-vector-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
